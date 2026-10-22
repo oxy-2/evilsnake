@@ -11,10 +11,14 @@
             "id": "56fefb3ea7a77ae4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -183,6 +187,7 @@
   },
   "active": "56fefb3ea7a77ae4",
   "lastOpenFiles": [
-    "evilsnake.md"
+    "evilsnake.md",
+    "README.md"
   ]
 }
