@@ -29,7 +29,7 @@ HIII OKAY I FINISHED IT, its like a server simulation and it then sends hex hich
 
 ALSO uh the game kinda dies after a couple fruits, cuz like the hex and decoding, the sim is perfectly fine, as long as u are fine with a multicolored apple snake go ahead i suppose lol, anyways im tired ash and thats abt it, have fun!!
 
-oh yeah uh how to run it, download the sheet, go to extensions, go the the js thing and paste in the code.js contents in there and save it, then you just gotta click up at the top bar start server, or sum and it should give a button for start, click that and now when u type in the big gray play button cell it takes u to the game sheet, type w, a, s and d to control the snake, type them in the yellow cell and also yeah i left the numbers unhidden incase u wanan see em, HAVE FUN BYEEE!!!
+oh yeah uh how to run it, download the sheet, go to extensions, go the the js thing and paste in the code.gs contents in there and save it, then you just gotta click up at the top bar start server, or sum and it should give a button for start, click that and now when u type in the big gray play button cell it takes u to the game sheet, type w, a, s and d to control the snake, type them in the yellow cell and also yeah i left the numbers unhidden incase u wanan see em, HAVE FUN BYEEE!!!
 
 
 
